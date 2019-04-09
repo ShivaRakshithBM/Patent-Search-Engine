@@ -6,7 +6,11 @@ Followed the Agile Manifesto:
 3) Customer collaboration, over contract negotiation
 4) Responding to change, over following a plan
 
-While there is value for the items on the right, we values items on the left more
+There are 3 main roles on a Scrum project:
+I was the Product owner where in I maintain the Product backlog. The 2nd one is Scrum master who helps overcomes the roadblocks happening in the project. The last one are the team members.
+I used to conduct the retrospective meetings, create the user stories, maintain the task board and the burndown chart
+
+While there is value for the items on the right, we value items on the left more
 
 Followed the Guiding principles of Agile methodology
 -- The highest priority is to satisfy the customer through early and continuous delivery of working software
@@ -21,6 +25,8 @@ Followed the Guiding principles of Agile methodology
 -- Simplicity—maximizing the work not done—is essential
 -- The best architectures, requirements, and designs emerge from self-organizing teams
 -- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly
+
+Methodology of the Agile process:
 
 Step 1: Set our vision with a strategy meeting
 Step 2: Build out our product roadmap
@@ -50,7 +56,9 @@ Followed 2 agile methodologies:
 --Had clear next steps
 
 
-My Source of learning: https://plan.io/blog/ultimate-guide-to-implementing-agile-project-management-and-scrum/
+My Source of learning: 
+Head First Agile book ;
+https://plan.io/blog/ultimate-guide-to-implementing-agile-project-management-and-scrum/
 
 
 
