@@ -6,46 +6,48 @@ Followed the Agile Manifesto:
 3) Customer collaboration over contract negotiation
 4) Responding to change over following a plan
 
+While there is value for the items on the right, we values items on the left more
+
 Followed the Guiding principles of Agile methodology
--- The highest priority is to satisfy the customer through early and continuous delivery
--- Welcome changing requirements, even late in development
--- Deliver working software frequently, from a couple of weeks to a couple of months
+-- The highest priority is to satisfy the customer through early and continuous delivery of working software
+-- Welcome changing requirements, even late in development. Agile processes harness change for the customers competitive advantage
+-- Deliver working software frequently, from a couple of weeks to a couple of months, witha preference to the shorter time scale
 -- Stakeholders and developers must collaborate on a daily basis
 -- Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
--- Face-to-face meetings are deemed the most efficient and effective format for project success
+-- The most effective and efficient way of conveying information to and within a development team is Face-to-face/video conversation
 -- A final working product is the ultimate measure of progress
 -- Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 -- Continuous attention to technical excellence and good design enhances agility
--- Simplicity—maximizing the work not done—is an essential element
+-- Simplicity—maximizing the work not done—is essential
 -- The best architectures, requirements, and designs emerge from self-organizing teams
 -- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly
 
-Step 1: Set your vision with a strategy meeting
-Step 2: Build out your product roadmap
-For each of these goals, you want to include 5 key pieces of information: Date, Name, Goal, Features, and Metric. This will have a loose timeline
+Step 1: Set our vision with a strategy meeting
+Step 2: Build out our product roadmap
+For each of the goals, we included 5 key pieces of information: Date, Name, Goal, Features, and Metric. This had a loose timeline
 
-Step 3: Get amped up with a release plan
+Step 3: Got amped up with a release plan
 Decided on the timelines for each of the features that is going to be released
 
-Step 4: It’s time to plan out your sprints
-Step 5: Keep your team on track with daily standups
---What did you do yesterday
---What are you going to do today
---What are the roadblocks that you might come across
+Step 4: Time to plan out our sprints
+Step 5: Keep our team on track with daily standups
+--What did I do yesterday
+--What am I going to do today
+--What are the roadblocks that I might come across
 
-Step 6: Sprint’s done? It’s time for a review 
-This is a Show and tell. A showcase of the working product to your other team members
+Step 6: Review once the Sprint is over 
+This is a Show and tell. A showcase of the working product to our other teams' members
 
-Step 7: What’s next? Decide what to focus on in your sprint retrospective
+Step 7: Decided what to focus on next, in our sprint retrospective
 Did we do anything wrong? Any areas of improvement? What should we do in the next sprint?
 
 Followed 2 agile methodologies:
 
 1) Scrum
 2) Kanban
---Visualize your workflow on a ‘board’
---Keep your work-in-progress (WIP) limited
---Have clear next steps
+--Visualized our workflow on a ‘board’
+--Keep our work-in-progress (WIP) limited
+--Had clear next steps
 
 
 My Source of learning: https://plan.io/blog/ultimate-guide-to-implementing-agile-project-management-and-scrum/
