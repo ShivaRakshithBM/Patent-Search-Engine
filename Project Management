@@ -7,7 +7,8 @@ Followed the Agile Manifesto:
 4) Responding to change, over following a plan
 
 There are 3 main roles on a Scrum project:
-I was the Product owner where in I maintain the Product backlog. The 2nd one is Scrum master who helps overcomes the roadblocks happening in the project. The last one are the team members.
+I was the Product owner where in I maintain the Product backlog. The 2nd one is Scrum master who helps overcomes the roadblocks happening
+in the project. The last one are the team members.
 I used to conduct the retrospective meetings, create the user stories, maintain the task board and the burndown chart
 
 While there is value for the items on the right, we value items on the left more
@@ -20,7 +21,8 @@ Followed the Guiding principles of Agile methodology
 -- Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 -- The most effective and efficient way of conveying information to and within a development team is Face-to-face/video conversation
 -- A final working product is the ultimate measure of progress
--- Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+-- Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace 
+indefinitely.
 -- Continuous attention to technical excellence and good design enhances agility
 -- Simplicity—maximizing the work not done—is essential
 -- The best architectures, requirements, and designs emerge from self-organizing teams
